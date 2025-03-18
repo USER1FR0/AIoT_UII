@@ -31,6 +31,9 @@ Se presentan los videos, diagramas y codigos de los 40 sensores y actuadores int
 
 📸 **Evidencia del circuito:** 
 
+![Imagen de WhatsApp 2025-03-18 a las 12 37 49_598f4522](https://github.com/user-attachments/assets/2a7f5c29-77e2-456a-9856-e22e100b6e37)
+![Imagen de WhatsApp 2025-03-18 a las 12 37 50_ef822525](https://github.com/user-attachments/assets/c12b8638-85e7-40f2-a19e-aa3eb76e07e9)
+
 
 
 ### 4️⃣ NetAcad (1.5 puntos)
