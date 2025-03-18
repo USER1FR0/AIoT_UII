@@ -42,7 +42,17 @@ Se presentan los videos, diagramas y codigos de los 40 sensores y actuadores int
 #### 🔹 Criterio de Evaluación:
 - ✅ **Puntaje obtenido** (calificación proporcional) - 1.5 puntos
 
-🔗 **Imagenes a NetAcad**: [Agregar enlace aquí]
+🔗 **Imagenes a NetAcad**: 
+![image](https://github.com/user-attachments/assets/b9dabfa3-e115-4430-9ec7-ac27b8353c1d)
+![image](https://github.com/user-attachments/assets/e735e80a-b74e-49a2-aee6-6cfea729056e)
+![image](https://github.com/user-attachments/assets/f9204378-949c-4d04-ba0d-13fdfe6c7cd8)
+
+
+![image](https://github.com/user-attachments/assets/a2dfeb7e-c901-42b7-a16d-cbfbb6f542c6)
+
+![image](https://github.com/user-attachments/assets/4f0312a4-bf6b-43fe-81fb-b038727cc085)
+
+
 
 --
 
